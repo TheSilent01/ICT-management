@@ -1,0 +1,6 @@
+Timestamp,Operator,Defect Type,Component,Pin,Comment
+2024-01-15 10:30:00,Fatima Zahra,Cold Solder,Resistor,Pin 1,Visible gap in solder joint
+2024-01-15 11:15:00,Mohamed Amin,Loose Connection,Capacitor,Pin 2,Intermittent connection
+2024-01-15 12:00:00,Omar Alami,Component Failure,IC,Pin 3,IC not responding
+2024-01-15 13:30:00,Leila Bennani,Oxidation,Transistor,Pin 1,Base pin shows corrosion
+2024-01-15 14:45:00,Youssef Cherkaoui,Short Circuit,Diode,Pin 2,Cathode shorted to ground
