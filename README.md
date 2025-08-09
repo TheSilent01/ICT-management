@@ -29,7 +29,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Project Structure
 
-Briefly describe the project structure.
+3gzt
 
 ## Built With
 
